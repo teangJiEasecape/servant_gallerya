@@ -1,7 +1,7 @@
 {
-  "name": "방자전",
-  "short_name": "방자전",
-  "description": "방자전",
+  "name": "A-END",
+  "short_name": "A-END",
+  "description": "A-END",
   "start_url": "/servant_gallerya/",
   "display": "standalone",
   "background_color": "#ffffff",
